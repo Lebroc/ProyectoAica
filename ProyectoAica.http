@@ -1,0 +1,6 @@
+@ProyectoAica_HostAddress = http://localhost:5074
+
+GET {{ProyectoAica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

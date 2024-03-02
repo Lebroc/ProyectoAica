@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoAica", "ProyectoAica.csproj", "{3280C847-85FA-429E-91E2-DB379DA9BFAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3280C847-85FA-429E-91E2-DB379DA9BFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3280C847-85FA-429E-91E2-DB379DA9BFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3280C847-85FA-429E-91E2-DB379DA9BFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3280C847-85FA-429E-91E2-DB379DA9BFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
